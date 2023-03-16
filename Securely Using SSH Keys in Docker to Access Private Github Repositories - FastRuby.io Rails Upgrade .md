@@ -1,14 +1,4 @@
 # Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service
-[Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
-
- [Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
-
- [Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
-
- [Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
-
- [Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
-
  [Securely Using SSH Keys in Docker to Access Private Github Repositories - FastRuby.io | Rails Upgrade Service](https://www.fastruby.io/blog/docker/docker-ssh-keys.html) 
 
  If you search online for using SSH keys with Docker, to access private Github repositories, you will get a lot of search results, but the solutions you’ll find are almost all out of date, insecure, or fragmentary (i.e. they provide a small snippet of information but not a complete solution). Given how popular both Docker and Github are, I found this quite surprising. We recently had to set up Docker with a Rails application that fetches gems from private repositories. We’re also using Docker Compose, which added to the challenge. [This comment on the Docker project](https://github.com/docker/docker.github.io/issues/12378), which is from February 2021, unfortunately is still accurate:
